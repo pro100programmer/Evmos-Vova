@@ -3,8 +3,8 @@ module github.com/tharsis/evmos
 go 1.17
 
 require (
-	github.com/cosmos/cosmos-sdk v0.44.2
-	github.com/cosmos/ibc-go v1.2.1
+	github.com/cosmos/cosmos-sdk v0.44.3
+	github.com/cosmos/ibc-go v1.2.3
 	github.com/ethereum/go-ethereum v1.10.3
 	github.com/gorilla/mux v1.8.0
 	github.com/rakyll/statik v0.1.7
