@@ -8,7 +8,7 @@ require (
 	github.com/ethereum/go-ethereum v1.10.3
 	github.com/gorilla/mux v1.8.0
 	github.com/rakyll/statik v0.1.7
-	github.com/spf13/cast v1.4.1
+	github.com/spf13/cast v1.5.0
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tendermint v0.34.14
